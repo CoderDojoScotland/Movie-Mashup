@@ -11,8 +11,8 @@ These materials were produced as part of a collaboration between [CoderDojo Scot
 ## Authors 
 [Daniel Devine](https://github.com/Djdevine) <br/>
 [Craig Steele](https://github.com/Craig88) <br/>
-David Griffith
-
+David Griffith <br/>
+[Chris Baldie](http://chrisbaldie.com/)
 
 ##Licence
 
