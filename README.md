@@ -12,9 +12,8 @@ These materials were produced as part of a collaboration between [CoderDojo Scot
 
 ##Additional Resources
 
-[Lesson Plan](https://docs.google.com/document/d/1wi-aC3bupNmiBvSrjeMCc7rjvvpf-6qPs-phVP2w2vQ/edit?usp=sharing)
+[Lesson Plan](https://docs.google.com/document/d/1wi-aC3bupNmiBvSrjeMCc7rjvvpf-6qPs-phVP2w2vQ/edit?usp=sharing) <br/>
 [Original Scene from Gravity (YouTube Link)](https://www.youtube.com/watch?v=wjXhHEXqMKE)
-
 
 
 ## Authors 
